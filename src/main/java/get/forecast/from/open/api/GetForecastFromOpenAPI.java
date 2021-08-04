@@ -22,7 +22,6 @@ public class GetForecastFromOpenAPI {
 						
 			URL url = new URL(urlStr);
 			
-
 			BufferedReader bReader = new BufferedReader(new InputStreamReader(url.openStream()));
 			String jsonForecastData ;
 			String result = "" ;
