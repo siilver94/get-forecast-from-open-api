@@ -53,8 +53,7 @@ public class GetForecastFromOpenAPI {
 
 				timeCategory = weather.get("baseTime").toString();
 				category = (String) weather.get("category");
-
-				
+			
 				String str="";
 				//System.out.println("배열의 " + (i + 1) + "번째 요소");
 				//System.out.println("  카테고리 : " + category);
