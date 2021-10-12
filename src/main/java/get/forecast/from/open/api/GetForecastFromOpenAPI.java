@@ -27,8 +27,7 @@ public class GetForecastFromOpenAPI {
 			String result = "" ;
 
 			while ((jsonForecastData = bReader.readLine()) != null) {
-				result = result.concat(jsonForecastData);
-				
+				result = result.concat(jsonForecastData);	
 			}
 			
 			JSONParser parser = new JSONParser();
