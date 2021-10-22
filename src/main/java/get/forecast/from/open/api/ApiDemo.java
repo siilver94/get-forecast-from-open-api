@@ -30,7 +30,6 @@ public class APIdemo {
 				result = result.concat(line);
 				
 			}
-
 			JSONParser parser = new JSONParser();
 			JSONObject obj = (JSONObject) parser.parse(result);
 
