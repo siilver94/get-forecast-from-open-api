@@ -50,9 +50,7 @@ public class APIdemo {
 				category = weather.get("baseTime").toString();
 				category2 = (String) weather.get("category");
 
-				
-
-				// if(category2.equals("T1H")) {
+				 {
 				System.out.println("배열의 " + (i + 1) + "번째 요소");
 				System.out.println("  카테고리 " + category2);
 				System.out.println("  시간 : " + category);
