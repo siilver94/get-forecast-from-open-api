@@ -41,6 +41,7 @@ public class GetForecastFromOpenAPI {
 			String timeCategory;
 			String category;
 			JSONObject weather;
+			
 			String dateStr = baseDate.substring(0,4);
 			dateStr = dateStr.concat("년 "+baseDate.substring(4,6)+"월 "+baseDate.substring(6,8)+"일 날씨");
 			System.out.println("  "+dateStr);
