@@ -42,7 +42,6 @@ public class APIdemo {
 			String category2;
 			JSONObject weather;
 			
-
 			for (int i = 0; i < parse_item.size(); i++) {
 				weather = (JSONObject) parse_item.get(i);
 				double obsrValue = ((Number) weather.get("obsrValue")).doubleValue();
