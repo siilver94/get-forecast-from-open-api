@@ -1,4 +1,6 @@
-# JSON
+# JSON(JavaScript Object Notation)
+
+<br/>
 
 - **JSON**이란 JavaScript Object Notation의 약자입니다.  **JSON**은 **XML**에 비해 효율적인 데이터 교환포맷으로 데이터 교환을 쉽게 할 수 있습니다.
  
@@ -18,7 +20,7 @@
 **출처** : https://kingpodo.tistory.com/12
 
 
-
+<br/>
 
 ## Parsing
 
