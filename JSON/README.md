@@ -17,7 +17,7 @@
     
 ![다운로드](https://user-images.githubusercontent.com/57824945/72894696-42324680-3d5f-11ea-8a97-cac317354873.png)
 
-**출처** : https://kingpodo.tistory.com/12
+*출처* : https://kingpodo.tistory.com/12
 
 
 <br/>
@@ -25,12 +25,12 @@
 ## Parsing
 
 
-**Parsing** : 웹 상에서 주어진 정보를 내가 원하는 형태로 가공하여 서버에서 불러 들이는 것입니다.
+`Parsing` : 웹 상에서 주어진 정보를 내가 원하는 형태로 가공하여 서버에서 불러 들이는 것입니다.
     이러한 **parsing** 기법은 **XML parsing**과 **JSON parsing**이 있습니다.
 
- **Parser** : **Compiler**나 **Interpreter** 에서 **Markup Tag**형태의 원시 프로그램을 읽어 들여, 그 문장의 
+`Parser` : **Compiler**나 **Interpreter** 에서 **Markup Tag**형태의 원시 프로그램을 읽어 들여, 그 문장의 
    구조를 알아내는 **Parsing**을 행하여 주는 프로그램 입니다.
    
    ![다운로드 (1)](https://user-images.githubusercontent.com/57824945/72894915-a9e89180-3d5f-11ea-94b0-7a2feac521c4.png)
 
-**출처** : https://kingpodo.tistory.com/8
+*출처* : https://kingpodo.tistory.com/8
